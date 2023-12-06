@@ -1,3 +1,5 @@
+<img src="https://github.com/fabiomatricardi/Claude2Alpaca7B-Playgorund/raw/main/claude2alpaca_logo.png" width=200>
+
 # Claude2Alpaca7B-Playgorund
 Repo of the code for Gradio Playground with Ctransformers of 7B parameters q4 GGUF model
 
@@ -19,3 +21,7 @@ from the terminal, with the venv activated, run
 ```
 python claude2AlpacaPG_full.py
 ```
+
+
+Here the result...<br>
+<img src="https://github.com/fabiomatricardi/Claude2Alpaca7B-Playgorund/raw/main/Claude2alpaca.png" width=900>
